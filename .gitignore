@@ -1,0 +1,4 @@
+node_modules
+.pmarc
+*.log
+.vercel
